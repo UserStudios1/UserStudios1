@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @UserStudios1
-- 👀 I’m interested in Game Development
 - 📫 How to reach me halflife.52.2@gmail.com
 
 <!---
