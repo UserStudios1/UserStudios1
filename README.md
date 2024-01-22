@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is UserStudios1 or Shadow
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jason
 ===============================================================================================================================================
 
 Unity Game Developer
@@ -7,10 +7,10 @@ Unity Game Developer
 I've been coding for about 1-2 Years now and I am currently working on a Unity SCP Game.
 
 * 🌍  I'm based in Germany
-* ✉️  You can contact me at [userstudios01@gmail.com](mailto:userstudios01@gmail.com)
+* ✉️  You can contact me at [jason.urbassek08@gmail.com](mailto:jason.urbassek08@gmail.com)
 * 🧠  I'm learning Unity and C#
 * 🤝  I'm open to collaborating on other Games with Unity
-* ⚡  I got 3 Cats, I know I am very creative with names :)
+* ⚡  I got 3 Cats
 
 <a href="https://www.github.com/UserStudios1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/UserStudios1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/true_shadow12" target="_blank" rel="noreferrer"><img
@@ -27,7 +27,7 @@ src="https://img.shields.io/twitter/follow/true_shadow12?logo=twitter&style=for-
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/trueshadow0" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" /> </picture> </a> <a href="https://www.github.com/UserStudios1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" /> </picture> </a> <a href="https://www.x.com/true_shadow12" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" /> </picture> </a></p>
+</picture> </a> <a href="https://www.github.com/UserStudios1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" /> </picture> </a> <a href="https://www.x.com/true_shadow12" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" /> </picture> </a></p>
 
 ### Badges
 
