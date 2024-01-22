@@ -6,16 +6,16 @@ Unity Game Developing
 
 I've been coding for about 1-2 Years with C# and Unity. I developed a few prototypes but didnt really finished a Game.
 
+C++ Developing
+---------------------
+
+I've been coding with C++ for 1-2 Years now and did some basic Projects, like a Console Calculator or a simple ATM System.
+
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [jason.urbassek08@gmail.com](mailto:jason.urbassek08@gmail.com)
 * 🧠  I'm learning Unity and C#
 * 🤝  I'm open to collaborating on other Games with Unity
 * ⚡  I got 3 Cats
-
-<a href="https://www.github.com/UserStudios1" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/UserStudios1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/true_shadow12" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/true_shadow12?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 
 ### Skills
 
