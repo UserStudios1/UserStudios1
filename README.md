@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jason
 ===============================================================================================================================================
 
-Unity Game Developer
+Unity Game Developing
 --------------------
 
-I've been coding for about 1-2 Years now and I am currently working on a Unity SCP Game.
+I've been coding for about 1-2 Years with C# and Unity. I developed a few prototypes but didnt really finished a Game.
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [jason.urbassek08@gmail.com](mailto:jason.urbassek08@gmail.com)
