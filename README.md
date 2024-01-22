@@ -11,10 +11,12 @@ C++ Developing
 
 I've been coding with C++ for 1-2 Years now and did some basic Projects, like a Console Calculator or a simple ATM System.
 
+
+
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [jason.urbassek08@gmail.com](mailto:jason.urbassek08@gmail.com)
-* 🧠  I'm learning Unity and C#
-* 🤝  I'm open to collaborating on other Games with Unity
+* 🧠  I'm learning more C++ and LUA
+* 🤝  I'm open to collaborating on other Projects using C++ or LUA
 * ⚡  I got 3 Cats
 
 ### Skills
