@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jason
+Hi!
 ===============================================================================================================================================
 
 Unity Game Developing
@@ -14,9 +14,8 @@ I've been coding with C++ for 1-2 Years now and did some basic Projects, like a 
 
 
 * 🌍  I'm based in Germany
-* ✉️  You can contact me at [jason.urbassek08@gmail.com](mailto:jason.urbassek08@gmail.com)
-* 🧠  I'm learning more C++ and LUA
-* 🤝  I'm open to collaborating on other Projects using C++ or LUA
+* 🧠  I'm learning more C++ and C#
+* 🤝  I'm open to collaborating on other Projects using C++ or C#
 * ⚡  I got 3 Cats
 
 ### Skills
