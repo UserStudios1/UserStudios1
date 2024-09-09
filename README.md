@@ -15,7 +15,7 @@ I've been coding with C++ for 1-2 Years now and did some basic Projects, like a 
 I also did a Cheat for a Game called Assault Cube that changes your ammo.
 
 # Web Development
-# --------------------
+---------------------
 
 I've been doing a Frontend Clone of the Tesla Website and the Spotify Website.
 
