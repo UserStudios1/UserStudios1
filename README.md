@@ -1,8 +1,7 @@
 Hi!
 ===============================================================================================================================================
 
-I am a C++ Developer currently working on some other small Projects.
-I am also learning Web Dev at the moment.
+I am a C++ and Unity C# Developer.
 
 # About me
 
